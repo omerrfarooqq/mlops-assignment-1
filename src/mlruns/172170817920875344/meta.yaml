@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/omerf/mlops-assignment-1/src/mlruns/172170817920875344
+creation_time: 1758052502444
+experiment_id: '172170817920875344'
+last_update_time: 1758052502444
+lifecycle_stage: active
+name: Wine_Classification

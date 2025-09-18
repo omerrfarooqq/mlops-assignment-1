@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/omerf/mlops-assignment-1/src/mlruns/172170817920875344/models/m-e147edf6c70148b0ba4051d285a5c74c/artifacts
+creation_timestamp: 1758052515686
+experiment_id: '172170817920875344'
+last_updated_timestamp: 1758052520615
+model_id: m-e147edf6c70148b0ba4051d285a5c74c
+model_type: null
+name: RandomForest
+source_run_id: 93f5171c91b64816abf9e82301384f18
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/omerf/mlops-assignment-1/src/mlruns/172170817920875344/models/m-b56300536c0f400cb3d7eb29d523729c/artifacts
+creation_timestamp: 1758052521213
+experiment_id: '172170817920875344'
+last_updated_timestamp: 1758052526329
+model_id: m-b56300536c0f400cb3d7eb29d523729c
+model_type: null
+name: SVM
+source_run_id: 8b7f6794d1a040228d40e5b40cbecc91
+status: 2
+status_message: null

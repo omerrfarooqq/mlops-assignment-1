@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omerf/mlops-assignment-1/src/mlruns/172170817920875344/8b7f6794d1a040228d40e5b40cbecc91/artifacts
+deleted_time: 1758052647337
+end_time: 1758052526361
+entry_point_name: ''
+experiment_id: '172170817920875344'
+lifecycle_stage: deleted
+run_id: 8b7f6794d1a040228d40e5b40cbecc91
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758052520658
+status: 3
+tags: []
+user_id: omerf
